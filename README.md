@@ -8,7 +8,7 @@
   <br><br>
 
   <a href="https://github.com/safalgamer">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=24&duration=2500&pause=800&color=7ABF4B&center=true&vCenter=true&multiline=true&width=660&height=120&lines=Hello+%2F+Namaste!+I'm+Safal;11th+Grade+%3E+Computer+Engineering;Python+%26+AI+%3E+full+inventory;Building+stuff+that+actually+works" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=22&duration=2200&pause=600&color=7ABF4B&center=true&vCenter=true&multiline=true&width=540&height=120&lines=Hello+%2F+Namaste!;I+craft+code+in+Python+%26+JS;Full-stack+%26+automation;Building+stuff+that+actually+works" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
                                                 
  ╔══════════════════════════════════════════════╗
  ║  inventory: Python · JS · TS · Flask · React ║
- ║  exp level: 11th Grade Computer Engineering   ║
+ ║  exp level: full-stack + AI tooling            ║
  ║  biome: Kathmandu, Nepal                      ║
  ║  status: crafing production code              ║
  ╚══════════════════════════════════════════════╝
@@ -229,8 +229,8 @@
 
 ### seed
 
-**Safal** — 11th-grade Computer Engineering student from Nepal.
-Building production software while still in school. Full-stack web, AI tooling, security research, and creative automation.
+**Safal** — Developer from Nepal building production software.
+Full-stack web, AI tooling, security research, and creative automation.
 
 Currently mining: multi-agent AI systems, secure-by-default patterns, and video generation pipelines that don't need a render farm.
 
