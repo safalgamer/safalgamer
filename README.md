@@ -65,7 +65,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=safalgamer&repo=sahayogi&theme=dark&title_color=7abf4b&text_color=a0a0a0&icon_color=7abf4b&bg_color=1a1a0e&border_color=5b8731&description_lines_count=2" alt="sahayogi" />
           </a>
           <br>
-          <a href="https://safalgamer.github.io/sahayogi/"><sub><code>🔗 live demo</code></sub></a>
+          <a href="https://safalgamer.github.io/sahayogi/"><img src="https://img.shields.io/badge/LIVE_DEMO-5b8731?style=for-the-badge&logo=google-chrome&logoColor=white" alt="live demo"></a>
         </p>
       </td>
       <td width="50%" valign="top" style="border: 2px solid #5b8731; padding: 12px; border-radius: 4px;">
@@ -79,7 +79,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=safalgamer&repo=crier&theme=dark&title_color=7abf4b&text_color=a0a0a0&icon_color=7abf4b&bg_color=1a1a0e&border_color=5b8731&description_lines_count=2" alt="crier" />
           </a>
           <br>
-          <a href="https://safalgamer.github.io/crier/"><sub><code>🔗 live demo</code></sub></a>
+          <a href="https://safalgamer.github.io/crier/"><img src="https://img.shields.io/badge/LIVE_DEMO-5b8731?style=for-the-badge&logo=google-chrome&logoColor=white" alt="live demo"></a>
         </p>
       </td>
     </tr>
@@ -107,7 +107,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=safalgamer&repo=AIComicBuilder&theme=dark&title_color=7abf4b&text_color=a0a0a0&icon_color=7abf4b&bg_color=1a1a0e&border_color=5b8731&description_lines_count=2" alt="AIComicBuilder" />
           </a>
           <br>
-          <a href="#"><sub><code>🔧 deploying (needs Vercel)</code></sub></a>
+          <img src="https://img.shields.io/badge/DEPLOY-Needs_Vercel-8b5e3c?style=for-the-badge" alt="needs Vercel">
         </p>
       </td>
     </tr>
@@ -150,8 +150,8 @@
     <td><sub>Python · agent loop · pathfinding</sub></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/safalgamer/ocean-portfolio"><code>ocean-portfolio</code></a></td>
-    <td>Minimalist single-page portfolio · <a href="https://safalgamer.github.io/ocean-portfolio/"><code>🔗 live</code></a></td>
+    <td><a href="https://github.com/safalgamer/ocean-portfolio"><code>ocean-portfolio</code></a> <a href="https://safalgamer.github.io/ocean-portfolio/"><img src="https://img.shields.io/badge/LIVE-5b8731?style=flat-square&logo=google-chrome&logoColor=white" alt="live"></a></td>
+    <td>Minimalist single-page portfolio</td>
     <td><sub>HTML · CSS · vanilla JS</sub></td>
   </tr>
 </table>
