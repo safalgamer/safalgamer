@@ -35,13 +35,13 @@
 <div align="center">
   <a href="https://github.com/safalgamer?tab=repositories&q=&type=&language=&sort=">[ /repos ]</a>
   &nbsp;&nbsp;
-  <a href="#-crafting-table">[ /projects ]</a>
+  <a href="#craftng-table">[ /projects ]</a>
   &nbsp;&nbsp;
-  <a href="#-enchantments">[ /stack ]</a>
+  <a href="#enchantments">[ /stack ]</a>
   &nbsp;&nbsp;
-  <a href="#-stats">[ /stats ]</a>
+  <a href="#stats">[ /stats ]</a>
   &nbsp;&nbsp;
-  <a href="#-seed">[ /contact ]</a>
+  <a href="#seed">[ /contact ]</a>
 </div>
 
 <br>
