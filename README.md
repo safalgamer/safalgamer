@@ -57,13 +57,15 @@
       <td width="50%" valign="top" style="border: 2px solid #5b8731; padding: 12px; border-radius: 4px;">
         <h3 align="center"><code>sahayogi</code> ★</h3>
         <p align="center">
-          <em>Financial navigation platform for Nepal SMEs · deployed</em><br>
+          <em>Financial navigation platform for Nepal SMEs</em><br>
           <sub>Express · MongoDB · React · JWT</sub>
         </p>
         <p align="center">
           <a href="https://github.com/safalgamer/sahayogi">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=safalgamer&repo=sahayogi&theme=dark&title_color=7abf4b&text_color=a0a0a0&icon_color=7abf4b&bg_color=1a1a0e&border_color=5b8731&description_lines_count=2" alt="sahayogi" />
           </a>
+          <br>
+          <a href="https://safalgamer.github.io/sahayogi/"><sub><code>🔗 live demo</code></sub></a>
         </p>
       </td>
       <td width="50%" valign="top" style="border: 2px solid #5b8731; padding: 12px; border-radius: 4px;">
@@ -76,6 +78,8 @@
           <a href="https://github.com/safalgamer/crier">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=safalgamer&repo=crier&theme=dark&title_color=7abf4b&text_color=a0a0a0&icon_color=7abf4b&bg_color=1a1a0e&border_color=5b8731&description_lines_count=2" alt="crier" />
           </a>
+          <br>
+          <a href="https://safalgamer.github.io/crier/"><sub><code>🔗 live demo</code></sub></a>
         </p>
       </td>
     </tr>
@@ -102,6 +106,8 @@
           <a href="https://github.com/safalgamer/AIComicBuilder">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=safalgamer&repo=AIComicBuilder&theme=dark&title_color=7abf4b&text_color=a0a0a0&icon_color=7abf4b&bg_color=1a1a0e&border_color=5b8731&description_lines_count=2" alt="AIComicBuilder" />
           </a>
+          <br>
+          <a href="#"><sub><code>🔧 deploying (needs Vercel)</code></sub></a>
         </p>
       </td>
     </tr>
@@ -145,7 +151,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/safalgamer/ocean-portfolio"><code>ocean-portfolio</code></a></td>
-    <td>Minimalist single-page portfolio</td>
+    <td>Minimalist single-page portfolio · <a href="https://safalgamer.github.io/ocean-portfolio/"><code>🔗 live</code></a></td>
     <td><sub>HTML · CSS · vanilla JS</sub></td>
   </tr>
 </table>
